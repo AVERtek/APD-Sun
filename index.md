@@ -1,4 +1,4 @@
-# "REWRITE YOUR OWN FAIRYTALE" <!-- Loads <model-viewer> for old browsers like IE11: -->
+# "CHASING THE SUNSHINE, COME OUT AND PLAY" <!-- Loads <model-viewer> for old browsers like IE11: -->
   <h1 style="text-align: center;" markdown="1"> It's Time to Modernize Your Castle with Resort Style Living!</h1>
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
@@ -79,7 +79,7 @@
       }
    </script>
 
-<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 45deg 120m" autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsCastle/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Medieval_Fantasy_Book.usdz" alt="We Wrote the Book on Home & Auto Protection" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 45deg 120m" autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsSun/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Solar_System_Model_Orrery.usdz" alt="We Wrote the Book on Home & Auto Protection" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
