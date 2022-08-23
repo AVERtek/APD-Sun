@@ -1,4 +1,4 @@
-# "BEGIN LIVING YOUR DREAM" <!-- Loads <model-viewer> for old browsers like IE11: -->
+# "BEGIN LIVING YOUR DREAM TODAY" <!-- Loads <model-viewer> for old browsers like IE11: -->
   <h1 style="text-align: center;" markdown="1"> It's Time to Chase the Sunshine; Start Living a Resort Lifestyle!</h1>
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
@@ -79,7 +79,7 @@
       }
    </script>
 
-<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 0deg 1m" autoplay ar shadow-intensity="1" src="ModelsSun/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Solar_System_Model_Orrery.usdz" alt="Solar System Model Orrery" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 75deg 105%" autoplay ar shadow-intensity="1" src="ModelsSun/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Solar_System_Model_Orrery.usdz" alt="Solar System Model Orrery" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
