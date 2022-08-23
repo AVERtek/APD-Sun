@@ -1,5 +1,5 @@
 # "BEGIN LIVING YOUR DREAM" <!-- Loads <model-viewer> for old browsers like IE11: -->
-  <h1 style="text-align: center;" markdown="1"> It's Time to Chase the Sunshine and Experience Resort Style Living!</h1>
+  <h1 style="text-align: center;" markdown="1"> It's Time to Chase the Sunshine; Start Living a Resort Lifestyle!</h1>
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
   
