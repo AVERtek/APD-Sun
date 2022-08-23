@@ -79,7 +79,7 @@
       }
    </script>
 
-<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="45deg 45deg 1000%" autoplay ar shadow-intensity="1" src="ModelsSun/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Solar_System_Model_Orrery.usdz" alt="Solar System Model Orrery" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="45deg 45deg 1%" autoplay ar shadow-intensity="1" src="ModelsSun/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Solar_System_Model_Orrery.usdz" alt="Solar System Model Orrery" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
